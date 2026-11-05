@@ -1,0 +1,21 @@
+{
+  "name": "notes-management-api",
+  "version": "1.0.0",
+  "description": "Backend Assignment #2 – Express CRUD API (Notes Management System)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "express",
+    "crud",
+    "rest-api",
+    "assignment"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.22.3"
+  }
+}
